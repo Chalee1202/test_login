@@ -8,7 +8,7 @@ function LoginPage() {
     <div className="w-full h-screen flex flex-col bg-slate-700 p-6">
       <p className="text-red-700 font-bold text-center text-4xl">Login</p>
       <img
-        className="w-60 mx-auto mt-6"
+        className="w-64 mx-auto mt-6"
         src="http://cartoon.mthai.com/app/uploads/2011/09/300px-nyan_cat_animation.gif"
       />
       <input
